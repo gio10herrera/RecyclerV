@@ -38,8 +38,8 @@ public class MainActivity extends AppCompatActivity {
 
     private List<String> getAllNames(){
         return new ArrayList<String>(){{
-            add("GIOVAN HERRERA");
-            add("SANTIAGO");
+            add("GIOVAN HERRERA F");
+            add("SANTIAGO CH");
             add("ALEJANDRO");
             add("DANILO");
             add("ARNOLDO");
